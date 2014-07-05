@@ -1,0 +1,10 @@
+Total properties listed: 7
+Total Value of properties listed: 2120000.0
+
+110001
+110020
+110223
+110333
+110421
+110442
+112352
